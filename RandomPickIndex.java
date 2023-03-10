@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+// import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -10,7 +10,7 @@ public class RandomPickIndex {
 
     // public Solution(int[] nums){
     //     for(int i=0;i<nums.length;i++){
-    //         List<Integer> list=map.getOrDefault(nums[i], new ArrayList<>());
+    // List<Integer> list=map.getOrDefault(nums[i], new ArrayList<>());
     //         list.add(i);
     //         map.put(nums[i], list);
     //     }
